@@ -1,5 +1,7 @@
 <img align="left" alt="GA logo." title="General Assemb.ly" src="resources/assets/ga-icon-medium.png" height="90px">
 <br>
+<br>
+<br>
 # WDI SM 23 Class Repository
 
 Welcome to the WDI SM 23 class repository. Here is where
