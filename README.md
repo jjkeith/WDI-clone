@@ -1,18 +1,11 @@
-<img align="left" alt="GA logo." title="General Assemb.ly" src="resources/assets/ga-icon-medium.png" height="90px">
-<br>
-<br>
-<br>
+![](resources/assets/ga-icon-medium.png)
+
 # WDI SM 23 Class Repository
 
 Welcome to the WDI SM 23 class repository. Here is where
 we will store the information you need as students. This includes important
 links and readings, in-class examples, prompts and solutions for exercises,
 labs, homework and projects.
-
-<!--In order to submit your homework to this repo and share it with your
-instructional team and classmates, please follow the
-**[Homework Submission Process](homework_submission_process.md)**
-*[note: this document has not been uploaded yet]*. -->
 
 ### Contents
 
@@ -22,8 +15,6 @@ instructional team and classmates, please follow the
 - [**Repo Structure and Use**](#repo-structure-and-use)
 
 ---
-
-<br>
 
 ## Contact Information
 
@@ -99,7 +90,7 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 | **Week 12** | 5/23 - 5/27 | *Project Sprint*               |
 
 
-## Classroom Code of Conduct <a id="coc"></a>
+## Classroom Code of Conduct
 
 (TODO) link and discuss
 
