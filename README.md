@@ -29,42 +29,49 @@ instructional team and classmates, please follow the
 
 ### Instructional Team
 
-| Role                      | Name               | Slack               | Email                    | GitHub |
-|---------------------------|--------------------|:-------------------:|:------------------------:|:------:|
-| **Course Producer**       | Jude Molke         | @judemolke          | jude@ga.co               | [judemolke](judemolke)|
-| **Instructor**            | BLAH               | @yyyyy              | blah@ga.co               | [blah](blah) |
-| **Instructor**            | BLAH               | @yyyyy              | blah@ga.co               | [blah](blah) |
-| **Instructor**            | BLAH               | @yyyyy              | blah@ga.co               | [blah](blah) |
-| **Instructional Support** | Meredith Bryan     | @meredith           | meredith.bryan@ga.co     | [mer8](mer8) |
+| Role                      | Name               |        Slack        |          Email           |                  GitHub                  |
+| ------------------------- | ------------------ | :-----------------: | :----------------------: | :--------------------------------------: |
+| **Course Producer**       | Jude Molke         |     @judemolke      |        jude@ga.co        | [judemolke](https://github.com/judemolke) |
+| **Instructor**            | Jimmy Garzon       |    @jimmygarzon     |    jimmy.garzon@ga.co    |   [jimbog](https://github.com/jimbog)    |
+| **Instructor**            | Philippe Luchansky | @philippe.luchansky | philippe.luchansky@ga.co | [philuchansky](https://github.com/philuchansky) |
+| **Instructor**            | Blaise Thomas      |    @blaisethomas    |   blaise.thomas@ga.co    | [blaisethomas](https://github.com/blaisethomas) |
+| **Instructional Support** | Meredith Bryan     |      @meredith      |   meredith.bryan@ga.co   |     [mer8](https://github.com/mer8)      |
 
- 
+
 ### TAs
 To be announced soon!
-####(TODO) Please update
-
-| Time                    | Name            | Slack         | Email                 | GitHub |
-|-------------------------|-----------------|:-------------:|:---------------------:|:------:|
-| Mon. night,<br>weekdays | Ladan Nasserian | @ladanazita   | ladan.nasserian@ga.co | [ladanazita](ladanazita) |
-| Tue. & Thu.<br>nights   | Peter Krouse    | @7sun         | peter.krouse@ga.co    | [7sun](7sun) |
-| Wed. night              | Larry Tran      | @lawrencetran | larry.tran@ga.co      | [lawrencetran1](lawrencetran1) |
-| Wed. night              | Alex Dinari     | @alexdinar    | alex.dinari@ga.co     | [alexdinari](alexdinari) |
+| Time | Name | Slack | Email | GitHub |
+| ---- | ---- | :---: | :---: | :----: |
+|      |      |       |       |        |
 
 
 
 ### Class
 ####(TODO) Please update
 
-| Name                 | Email                          | [Slack](https://ga-students.slack.com) | GitHub             |
-|----------------------|:------------------------------:|:-----------------:|:---------------------------------------:|
-|                      |                                |                   |  
+| Name              |          Email           | [Slack](https://ga-students.slack.com) |                  GitHub                  |
+| ----------------- | :----------------------: | :------------------------------------: | :--------------------------------------: |
+| Ed Petil          |   e.petil.ms@gmail.com   |                @epetil                 |   [epetil](https://github.com/epetil)    |
+| Hines Kao         |    hineskao@gmail.com    |                @zkao04                 |   [zkao04](https://github.com/zkao04)    |
+| JJ Keith          |      jj@jjkeith.net      |                @jjkeith                |  [jjkeith](https://github.com/jjkeith)   |
+| Kate Deichert     | katedeichert8@gmail.com  |             @katedeichert              | [katedeichert](https://github.com/katedeichert) |
+| Katie Ouaknine    |   katajello@yahoo.com    |                @katieo                 | [katajello](https://github.com/katajello) |
+| Lawrence Gomez    |    lfg2305@gmail.com     |                @lgomez                 | [lawrencegomez](https://github.com/lawrencegomez) |
+| Michael Ray       |  raymichael23@gmail.com  |              @michaelray               | [TheMichaelRay](https://github.com/TheMichaelRay) |
+| Myra Martinez     |   mea131985@gmail.com    |                 @myra                  |                                          |
+| Nicholas Nemetz   |  n.nemetz1230@gmail.com  |                @nicknem                |  [nem1230](https://github.com/nem1230)   |
+| Rex Nahigian      |    redreximus@aim.com    |              @redreximus               |                                          |
+| Shahrooz Hedayati |   shahrooz84@gmail.com   |               @shahrooz                | [sharre84](https://github.com/sharre84)  |
+| Susan Rotondo     |  susanrotondo@gmail.com  |             @susanrotondo              |                                          |
+| Whitney Hillis    | whitney.hillis@gmail.com |             @whitneyhillis             |                                          |
 
 ## Important Dates
 
-| Date             | Day of Week | Event |
-|:----------------:|:-----------:|:------|
-| **March 4**      | Friday      | **Orientation & Installfest** |
-| **March 7**      | Monday      | **First day of WDI!** |
-| **May 27**       | Friday      | **Last day of class & graduation!** |
+|    Date     | Day of Week | Event                               |
+| :---------: | :---------: | :---------------------------------- |
+| **March 4** |   Friday    | **Orientation & Installfest**       |
+| **March 7** |   Monday    | **First day of WDI!**               |
+| **May 27**  |   Friday    | **Last day of class & graduation!** |
 
 
 Note: in the weeks following your graduation, there will be a number of various
@@ -76,20 +83,20 @@ Below is a general outline of the course content. See the README for each week f
 
 Keep in mind, this is tentative. **We may (and shall) change topics and dates as necessary.**
 
-| Week(s)     | Dates         | Module                        |
-|:-----------:|:-------------:|:------------------------------|
-| **Week 1**  | 3/7 - 3/11    | Front-end Fundamentals        |
-| **Week 2**  | 3/14 - 3/18   | Intermediate Front-end        |
-| **Week 3**  | 3/21 - 3/25   | *Project Sprint*              |
-| **Week 4**  | 3/28 - 4/1    | Ruby & MVC with Rails         |
-| **Week 5**  | 4/4 - 4/8     | Continue MVC with Rails       |
-| **Week 6**  | 4/11 - 4/15   | *Project Sprint*              |
-| **Week 7**  | 4/18 - 4/22   | Introduction to Building APIs |
-| **Week 8**  | 4/25 - 4/29   | Users & Authentication in APIs|
-| **Week 9**  | 5/2 - 5/6     | *Project Sprint*              |
-| **Week 10** | 5/9 - 5/13    | MV* with Angular              |
-| **Week 11** | 5/16 - 5/20   | CS Topics & More!             |
-| **Week 12** | 5/23 - 5/27   | *Project Sprint*              |
+|   Week(s)   |    Dates    | Module                         |
+| :---------: | :---------: | :----------------------------- |
+| **Week 1**  | 3/7 - 3/11  | Front-end Fundamentals         |
+| **Week 2**  | 3/14 - 3/18 | Intermediate Front-end         |
+| **Week 3**  | 3/21 - 3/25 | *Project Sprint*               |
+| **Week 4**  | 3/28 - 4/1  | Ruby & MVC with Rails          |
+| **Week 5**  |  4/4 - 4/8  | Continue MVC with Rails        |
+| **Week 6**  | 4/11 - 4/15 | *Project Sprint*               |
+| **Week 7**  | 4/18 - 4/22 | Introduction to Building APIs  |
+| **Week 8**  | 4/25 - 4/29 | Users & Authentication in APIs |
+| **Week 9**  |  5/2 - 5/6  | *Project Sprint*               |
+| **Week 10** | 5/9 - 5/13  | MV* with Angular               |
+| **Week 11** | 5/16 - 5/20 | CS Topics & More!              |
+| **Week 12** | 5/23 - 5/27 | *Project Sprint*               |
 
 
 ## Classroom Code of Conduct <a id="coc"></a>
@@ -147,6 +154,6 @@ It is recommended that you always have a README.md in the root directory of
 your GitHub project. For viewing and editing Markdown files on your
 computer, try [Mou] [2].
 
-[1]: http://daringfireball.net/projects/markdown/    "Markdown"
-[2]: http://mouapp.com/                              "Mou"
- 
+[1]: http://daringfireball.net/projects/markdown/	"Markdown"
+[2]: http://mouapp.com/	"Mou"
+
