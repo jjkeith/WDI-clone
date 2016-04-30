@@ -80,12 +80,12 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 | **Week 2**  | 5/9 - 5/13  | Intermediate Front-end         |
 | **Week 3**  | 5/16 - 5/20 | *Project Sprint*               |
 | **Week 4**  | 5/23 - 5/27 | Ruby & MVC with Rails          |
-| **Week 5**  | 5/30 - 6/3  | Continue MVC with Rails        |
+| **Week 5**  | 5/31 - 6/3  | Continue MVC with Rails        |
 | **Week 6**  | 6/6 - 6/10  | *Project Sprint*               |
 | **Week 7**  | 6/13 - 6/17 | Introduction to Building APIs  |
 | **Week 8**  | 6/20 - 6/24 | Users & Authentication in APIs |
 | **Week 9**  | 6/27 - 7/1  | *Project Sprint*               |
-| **Week 10** |  7/4 - 7/8  | MV* with Angular               |
+| **Week 10** |  7/5 - 7/8  | MV* with Angular               |
 | **Week 11** | 7/11 - 7/15 | CS Topics & More!              |
 | **Week 12** | 7/18 - 7/22 | *Project Sprint*               |
 
