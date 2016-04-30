@@ -58,11 +58,11 @@ To be announced soon!
 
 ## Important Dates
 
-|    Date     | Day of Week | Event                               |
-| :---------: | :---------: | :---------------------------------- |
-| **March 4** |   Friday    | **Orientation & Installfest**       |
-| **March 7** |   Monday    | **First day of WDI!**               |
-| **May 27**  |   Friday    | **Last day of class & graduation!** |
+|     Date     | Day of Week | Event                               |
+| :----------: | :---------: | :---------------------------------- |
+| **April 28** |  Thursday   | **Orientation & Installfest**       |
+|  **May 2**   |   Monday    | **First day of WDI!**               |
+| **July 22**  |   Friday    | **Last day of class & graduation!** |
 
 
 Note: in the weeks following your graduation, there will be a number of various
@@ -76,18 +76,18 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 
 |   Week(s)   |    Dates    | Module                         |
 | :---------: | :---------: | :----------------------------- |
-| **Week 1**  | 3/7 - 3/11  | Front-end Fundamentals         |
-| **Week 2**  | 3/14 - 3/18 | Intermediate Front-end         |
-| **Week 3**  | 3/21 - 3/25 | *Project Sprint*               |
-| **Week 4**  | 3/28 - 4/1  | Ruby & MVC with Rails          |
-| **Week 5**  |  4/4 - 4/8  | Continue MVC with Rails        |
-| **Week 6**  | 4/11 - 4/15 | *Project Sprint*               |
-| **Week 7**  | 4/18 - 4/22 | Introduction to Building APIs  |
-| **Week 8**  | 4/25 - 4/29 | Users & Authentication in APIs |
-| **Week 9**  |  5/2 - 5/6  | *Project Sprint*               |
-| **Week 10** | 5/9 - 5/13  | MV* with Angular               |
-| **Week 11** | 5/16 - 5/20 | CS Topics & More!              |
-| **Week 12** | 5/23 - 5/27 | *Project Sprint*               |
+| **Week 1**  |  5/2 - 5/6  | Front-end Fundamentals         |
+| **Week 2**  | 5/9 - 5/13  | Intermediate Front-end         |
+| **Week 3**  | 5/16 - 5/20 | *Project Sprint*               |
+| **Week 4**  | 5/23 - 5/27 | Ruby & MVC with Rails          |
+| **Week 5**  | 5/30 - 6/3  | Continue MVC with Rails        |
+| **Week 6**  | 6/6 - 6/10  | *Project Sprint*               |
+| **Week 7**  | 6/13 - 6/17 | Introduction to Building APIs  |
+| **Week 8**  | 6/20 - 6/24 | Users & Authentication in APIs |
+| **Week 9**  | 6/27 - 7/1  | *Project Sprint*               |
+| **Week 10** |  7/4 - 7/8  | MV* with Angular               |
+| **Week 11** | 7/11 - 7/15 | CS Topics & More!              |
+| **Week 12** | 7/18 - 7/22 | *Project Sprint*               |
 
 
 ## Classroom Code of Conduct
