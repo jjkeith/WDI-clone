@@ -31,30 +31,26 @@ labs, homework and projects.
 
 ### TAs
 To be announced soon!
-| Time | Name | Slack | Email | GitHub |
-| ---- | ---- | :---: | :---: | :----: |
-|      |      |       |       |        |
 
 
 
 ### Class
 ####(TODO) Please update
 
-| Name              |          Email           | [Slack](https://ga-students.slack.com) |                  GitHub                  |
-| ----------------- | :----------------------: | :------------------------------------: | :--------------------------------------: |
-| Ed Petil          |   e.petil.ms@gmail.com   |                @epetil                 |   [epetil](https://github.com/epetil)    |
-| Hines Kao         |    hineskao@gmail.com    |                @zkao04                 |   [zkao04](https://github.com/zkao04)    |
-| JJ Keith          |      jj@jjkeith.net      |                @jjkeith                |  [jjkeith](https://github.com/jjkeith)   |
-| Kate Deichert     | katedeichert8@gmail.com  |             @katedeichert              | [katedeichert](https://github.com/katedeichert) |
-| Katie Ouaknine    |   katajello@yahoo.com    |                @katieo                 | [katajello](https://github.com/katajello) |
-| Lawrence Gomez    |    lfg2305@gmail.com     |                @lgomez                 | [lawrencegomez](https://github.com/lawrencegomez) |
-| Michael Ray       |  raymichael23@gmail.com  |              @michaelray               | [TheMichaelRay](https://github.com/TheMichaelRay) |
-| Myra Martinez     |   mea131985@gmail.com    |                 @myra                  |                                          |
-| Nicholas Nemetz   |  n.nemetz1230@gmail.com  |                @nicknem                |  [nem1230](https://github.com/nem1230)   |
-| Rex Nahigian      |    redreximus@aim.com    |              @redreximus               |                                          |
-| Shahrooz Hedayati |   shahrooz84@gmail.com   |               @shahrooz                | [sharre84](https://github.com/sharre84)  |
-| Susan Rotondo     |  susanrotondo@gmail.com  |             @susanrotondo              |                                          |
-| Whitney Hillis    | whitney.hillis@gmail.com |             @whitneyhillis             |                                          |
+| Name              |          Email          | [Slack](https://ga-students.slack.com) |                  GitHub                  |
+| ----------------- | :---------------------: | :------------------------------------: | :--------------------------------------: |
+| Ed Petil          |  e.petil.ms@gmail.com   |                @epetil                 |   [epetil](https://github.com/epetil)    |
+| Hines Kao         |   hineskao@gmail.com    |                @zkao04                 |   [zkao04](https://github.com/zkao04)    |
+| JJ Keith          |     jj@jjkeith.net      |                @jjkeith                |  [jjkeith](https://github.com/jjkeith)   |
+| Kate Deichert     | katedeichert8@gmail.com |             @katedeichert              | [katedeichert](https://github.com/katedeichert) |
+| Katie Ouaknine    |   katajello@yahoo.com   |                @katieo                 | [katajello](https://github.com/katajello) |
+| Lawrence Gomez    |    lfg2305@gmail.com    |                @lgomez                 | [lawrencegomez](https://github.com/lawrencegomez) |
+| Michael Ray       | raymichael23@gmail.com  |              @michaelray               | [TheMichaelRay](https://github.com/TheMichaelRay) |
+| Myra Martinez     |   mea131985@gmail.com   |                 @myra                  |                                          |
+| Nicholas Nemetz   | n.nemetz1230@gmail.com  |                @nicknem                |  [nem1230](https://github.com/nem1230)   |
+| Rex Nahigian      |   redreximus@aim.com    |              @redreximus               |                                          |
+| Shahrooz Hedayati |  shahrooz84@gmail.com   |               @shahrooz                | [sharre84](https://github.com/sharre84)  |
+| Susan Rotondo     | susanrotondo@gmail.com  |             @susanrotondo              |                                          |
 
 ## Important Dates
 
@@ -99,11 +95,7 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 
 #### What's in here?
 
-- The **work** directory is where you can put your class work!
-- Weekly & Daily directories (**w00/d00**) contain in-class code samples and
-  files required for labs and lessons.
-  - Instructors will put their own files in the **instructor** folder. You can
-    add yours directly to the daily folder.
+- Inside the **work** directory, you'll find Weekly & Daily directories (**w00/d00**) that contain in-class code samples and files required for labs and lessons.
 - The **resources** directory is where you can find all the extra resources you
   can use to learn about programming! This includes:
   - links to outside articles, blog posts, tutorials, and more ways to extend
