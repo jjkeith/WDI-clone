@@ -5,6 +5,7 @@
   - [mac2imgur](https://github.com/mileswd/mac2imgur)
 - **Using Terminal (Bash) and Sublime Text**
   - [Sublime Text 2 Keyboard Shortcuts](https://gist.github.com/vanderhoop/0356c9489ccba09ffc5a)
+  - [Atom Keyboard Shortcuts](http://blog.bugsnag.com/atom-editor-cheat-sheet)
   - [Lifehacker Mac Terminal Primer](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
   - [Unix Mages, chapters 1 - 6](http://unixmages.com/ufbm.pdf)
 - **Markdown**
