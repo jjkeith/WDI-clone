@@ -35,8 +35,6 @@ To be announced soon!
 
 
 ### Class
-####(TODO) Please update
-
 | Name              |          Email          | [Slack](https://ga-students.slack.com) |                  GitHub                  |
 | ----------------- | :---------------------: | :------------------------------------: | :--------------------------------------: |
 | Ed Petil          |  e.petil.ms@gmail.com   |                @epetil                 |   [epetil](https://github.com/epetil)    |
@@ -46,11 +44,11 @@ To be announced soon!
 | Katie Ouaknine    |   katajello@yahoo.com   |                @katieo                 | [katajello](https://github.com/katajello) |
 | Lawrence Gomez    |    lfg2305@gmail.com    |                @lgomez                 | [lawrencegomez](https://github.com/lawrencegomez) |
 | Michael Ray       | raymichael23@gmail.com  |              @michaelray               | [TheMichaelRay](https://github.com/TheMichaelRay) |
-| Myra Martinez     |   mea131985@gmail.com   |                 @myra                  |                                          |
+| Myra Martinez     |   mea131985@gmail.com   |                 @myra                  | [myramartinez](https://github.com/myramartinez) |
 | Nicholas Nemetz   | n.nemetz1230@gmail.com  |                @nicknem                |  [nem1230](https://github.com/nem1230)   |
-| Rex Nahigian      |   redreximus@aim.com    |              @redreximus               |                                          |
+| Rex Nahigian      |   redreximus@aim.com    |              @redreximus               | [redreximus](https://github.com/redreximus) |
 | Shahrooz Hedayati |  shahrooz84@gmail.com   |               @shahrooz                | [sharre84](https://github.com/sharre84)  |
-| Susan Rotondo     | susanrotondo@gmail.com  |             @susanrotondo              |                                          |
+| Susan Rotondo     | susanrotondo@gmail.com  |             @susanrotondo              | [susanrotondo](https://github.com/susanrotondo) |
 
 ## Important Dates
 
