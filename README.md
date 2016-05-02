@@ -84,9 +84,6 @@ Keep in mind, this is tentative. **We may (and shall) change topics and dates as
 | **Week 12** | 7/18 - 7/22 | *Project Sprint*               |
 
 
-## Classroom Code of Conduct
-
-(TODO) link and discuss
 
 
 ## Repo Structure and Use
